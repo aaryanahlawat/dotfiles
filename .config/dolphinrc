@@ -1,0 +1,21 @@
+[ContentDisplay]
+UseShortRelativeDates=false
+
+[General]
+Version=202
+ViewPropsTimestamp=2025,3,28,6,37,47.989
+
+[IconsMode]
+TextWidthIndex=3
+UseSystemFont=false
+ViewFont=Jacquard 24,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,imagethumbnail,jpegthumbnail,jxl,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail,gdk-pixbuf-thumbnailer
