@@ -1,0 +1,25 @@
+# General Settings
+title-text: ""
+title-font: "myFont.pf2"
+message-font: "myFont.pf2"
+terminal-font:"myFont.pf2"
+desktop-image: "background.png"
+
+# Boot menu styling
++ boot_menu {
+	left = 35%
+	top = 15%
+	width = 30%
+	height = 40%
+	item_font = "myFont.pf2"
+	item_color="#FFF"
+	selected_item_font="myFont.pf2"
+	selected_item_color = "#2323FF"
+	selected_item_pixmap_style="border.png"
+	item_height = 25
+	item_padding = 2
+	item_spacing = 25
+}
+
+# Menu sound
+#menu-entry-sound: "sound.wav"
